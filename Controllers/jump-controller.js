@@ -1,3 +1,6 @@
+// this little contraption waits for input from the html file
+// xd
+
 var character = document.getElementById("character");
 var block = document.getElementById("block");
 var counter = 0;

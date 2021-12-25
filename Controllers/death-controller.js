@@ -1,3 +1,7 @@
+// pretty simple, lmao
+// it waits until the character object comes into contact with the block
+// then stops your game
+
 var character = document.getElementById("character");
 var block = document.getElementById("block");
 var counter = 0;

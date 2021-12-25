@@ -14,7 +14,7 @@
 #character {
     width: 20px;
     height: 50px;
-    background-image: url(https://cdn.discordapp.com/attachments/920952514323546115/924008965828931654/ezgif-2-a5f4a9708a.gif);
+    background-image: url(https://cdn.discordapp.com/attachments/920952514323546115/924129344790626314/ezgif-3-4758b12164.gif);
     position: relative;
     top: 150px;
 }
@@ -29,7 +29,7 @@
 }
 
 #block {
-    background-image: url(https://cdn.discordapp.com/attachments/920952514323546115/924009934641840168/ezgif-2-17ab284b2e.gif);
+    background-image: url('https://cdn.discordapp.com/attachments/920952514323546115/924009934641840168/ezgif-2-17ab284b2e.gif');
     width: 20px;
     height: 20px;
     position: relative;
@@ -41,6 +41,7 @@
     0%{left: 500px}
     100%{left: -20px}
 }
+
 p{
     text-align: center;
 }
